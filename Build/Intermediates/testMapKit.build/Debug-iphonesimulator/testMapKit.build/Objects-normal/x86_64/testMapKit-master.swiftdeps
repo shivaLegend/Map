@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "7e5e927c4851012e8e5a54c7297ab1ab"
+build_time: [1530067933, 438249000]
+inputs:
+  "/Users/nguyenductai/Desktop/test/testMapKit/testMapKit/VC2ViewController.swift": [1525765117, 0]
+  "/Users/nguyenductai/Desktop/test/testMapKit/testMapKit/pinAnnotation.swift": [1525763182, 0]
+  "/Users/nguyenductai/Desktop/test/testMapKit/testMapKit/ViewController.swift": !dirty [1526005366, 0]
+  "/Users/nguyenductai/Desktop/test/testMapKit/testMapKit/AppDelegate.swift": [1525754170, 0]

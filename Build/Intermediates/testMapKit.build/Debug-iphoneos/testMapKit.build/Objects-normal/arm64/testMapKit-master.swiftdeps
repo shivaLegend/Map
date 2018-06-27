@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "336f71e38b235b6c79044c5d5982be32"
+build_time: [1525772912, 113368000]
+inputs:
+  "/Users/nguyenductai/Desktop/testMapKit/testMapKit/VC2ViewController.swift": [1525765117, 0]
+  "/Users/nguyenductai/Desktop/testMapKit/testMapKit/pinAnnotation.swift": [1525763182, 0]
+  "/Users/nguyenductai/Desktop/testMapKit/testMapKit/ViewController.swift": [1525771313, 0]
+  "/Users/nguyenductai/Desktop/testMapKit/testMapKit/AppDelegate.swift": [1525754170, 0]
